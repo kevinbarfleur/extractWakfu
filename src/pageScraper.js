@@ -1,5 +1,4 @@
 const fs = require("fs");
-const _ = require("lodash");
 const db = require("./db");
 
 const MONSTERS = require("./../monsters.json").filter(
