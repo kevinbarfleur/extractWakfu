@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Fil Infernal",
+        "image": "https://static.ankama.com/wakfu/portal/game/item/115/46329028.png",
+        "type": "Raffinage de l'Herboriste",
+        "level": "230",
+        "rarity": "Inhabituel",
+        "description": "Ce fil rentre dans la confection de vos coiffes et casques mais aussi de vos amulettes et anneaux.",
+        "listing": [
+            {
+                "title": "Recette",
+                "info": {
+                    "job": "Herboriste",
+                    "JobLevel": "Niveau 145"
+                },
+                "items": [
+                    {
+                        "number": "5 x",
+                        "name": "Galinsoga démoniaque",
+                        "details": "Récoltes de l'Herboriste",
+                        "image": "https://static.ankama.com/wakfu/portal/game/item/42/31328751.w40h40.png"
+                    },
+                    {
+                        "number": "5 x",
+                        "name": "Chardominateur",
+                        "details": "Récoltes de l'Herboriste",
+                        "image": "https://static.ankama.com/wakfu/portal/game/item/42/31328754.w40h40.png"
+                    }
+                ]
+            }
+        ]
+    }
+]
